@@ -1,6 +1,6 @@
 <h1 align="left">UHHHHHHH (i totally didn't steal face-dev's readme)</h1>
 
-I make software that is held together by glue, hopes, and dreams. Oh and also I post [youtube videos](https://www.youtube.com/FaceDevStuff)
+I make software that is held together by glue, hopes, and dreams. Oh and also I post [youtube videos](https://www.youtube.com/@m1dn1ghtgt.)
 
 <h3 align="left">
   You can contact me on <a href='https://discord.gg/VNSZBH7nGf'>Discord</a>
