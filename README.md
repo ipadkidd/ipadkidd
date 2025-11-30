@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on: **ipadExecutor Reborn**
+- 🔭 I’m currently working on: **Nothing**
 - 🌱 I’m learning: **C#**
 - 📫 Contact me at: **[Discord](https://discord.com/users/1056648489402118194)**
 - ⚡ Fun fact: **My YouTube channel has 1K+ subscribers with less than 20 videos.**
