@@ -44,4 +44,4 @@
 
 ---
 
-<p align="center"><i>"In the middle of every difficulty lies opportunity." – Albert Einstein</i></p>
+<p align="center"><i>"Believe you can and you're halfway there." – Theodore Roosevelt</i></p>
