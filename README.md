@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm ipadkidd 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Hacker+%7C+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on: **Nothing**
 - 🌱 I’m learning: **C#**
 - 📫 Contact me at: **[Discord](https://discord.com/users/1056648489402118194)**
-- ⚡ Fun fact: **My YouTube channel has 1K+ subscribers with less than 20 videos.**
+- ⚡ Fun fact: **I have a Jellyfin server with Tailscale running on a Raspberry Pi 5.**
 
 ---
 
